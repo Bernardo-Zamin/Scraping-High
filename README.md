@@ -32,4 +32,4 @@ Welcome to **Scraping-High**, a Python-based web scraping project designed to ef
 Feel free to fork the repository and submit pull requests if you'd like to contribute improvements or new features!
 
 ## License
-This project is open-source. See the LICENSE file for more details.
+This project is open-source. See the [LICENSE](LICENSE) file for more details.
